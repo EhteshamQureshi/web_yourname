@@ -1,0 +1,8 @@
+*************************************
+* Print Average (select a choice) : *
+*                                   *
+*     1- Input module code          *
+*     2- Input student IDs          *
+*     3- Input student names        *
+*                                   *
+*************************************
